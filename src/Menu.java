@@ -1,9 +1,10 @@
 import java.util.Scanner;
 
-public class Menu {
-    /**
+/**
  * 菜单模块 —— 显示界面和读取用户输入
  */
+public class Menu {
+    
     private Scanner scanner;
 
     public Menu() {

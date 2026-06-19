@@ -63,6 +63,7 @@ public class Main {
                         System.out.println("字数统计: " + doc.wordCount());
                         System.out.println("段落数: " + doc.paragraphCount());
                         System.out.println("行数: " + doc.lineCount());
+                        doc.charTypeStats();
                     }
                     break;
 
